@@ -7,8 +7,12 @@ nav: true
 nav_order: 4
 ---
 
+<div class="projects">
 
-<!-- EDL -->
+<!-- Engineering Design Lab -->
+<a id="edl" href=".#edl">
+  <h2 class="category">Engineering Design Lab</h2>
+</a>
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
@@ -29,7 +33,10 @@ nav_order: 4
 </div>
 
 
-<!-- SEW -->
+<!-- SEW Eurodrive -->
+<a id="sew" href=".#sew">
+  <h2 class="category">SEW Eurodrive</h2>
+</a>
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
@@ -70,7 +77,10 @@ nav_order: 4
 </div>
 
 
-<!-- UTAT -->
+<!-- UTAT Space Systems -->
+<a id="utat" href=".#utat">
+  <h2 class="category">UofT Aerospace Team SAE Aero Design</h2>
+</a>
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
@@ -92,7 +102,10 @@ nav_order: 4
 </div>
 
 
-<!-- AU -->
+<!-- AutoRonto -->
+<a id="autoronto" href=".#autoronto">
+  <h2 class="category">aUToronto</h2>
+</a>
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
@@ -114,7 +127,10 @@ nav_order: 4
 </div>
 
 
-<!-- HDPDP -->
+<!-- Human Powered Vehicle Design Team -->
+<a id="hpvdt" href=".#hpvdt">
+  <h2 class="category">UofT Human Powered Vehicles</h2>
+</a>
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
@@ -133,4 +149,6 @@ nav_order: 4
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/gif/hdpdp_pcb.gif" title="hpvdt_sch" class="img-fluid rounded z-depth-1" %}
     </div>
+</div>
+
 </div>
