@@ -53,7 +53,7 @@ nav_order: 4
         {% include figure.liquid loading="eager" path="assets/img/wall.png" title="wall_tof" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/gif/seg.gif" title="floor_segmentation" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/gif/seg_1.gif" title="floor_segmentation" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
