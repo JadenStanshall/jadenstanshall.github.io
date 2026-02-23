@@ -42,9 +42,7 @@ layout: default
 
     <!-- Experience -->
     {% if page.announcements and page.announcements.enabled %}
-      <h2>
-        <a href="{{ '/news/' | relative_url }}" style="color: inherit">Experience</a>
-      </h2>
+      <h2>Experience</h2>
       {% include news.liquid limit=true %}
     {% endif %}
 
