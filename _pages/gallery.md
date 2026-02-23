@@ -31,7 +31,7 @@ nav_order: 4
 </div>
 
 <div class="caption">
-    Engineering Design Lab is an engineering consulting company focusing on electric vehicles and sustainable mobility. My work centered mainly around the EDL Vehicle Control Unit, a modular hardware platform for building software-defined vehicles. I was responsible for the product's initial firmware architecture, as well as validation for the electrical hardware. Some other projects I contributed to were the low voltage system and wiring harness design for an electric delivery vehicle, and a torque transducer for validating extension wrench designs.
+    Engineering Design Lab is an engineering consulting company focusing on electric vehicles and sustainable mobility. My work centered mainly around the EDL Vehicle Control Unit, a modular hardware platform for building software-defined vehicles. See the product page here: <a href="https://www.engdesignlab.com/products/vehicle-control-unit" target="_blank">EDL VCU</a> (see me in the video!). I was responsible for the product's initial firmware architecture, as well as validation for the electrical hardware. Some other projects I contributed to were the low voltage system and wiring harness design for an electric delivery vehicle, and a torque transducer for validating extension wrench designs.
 </div>
 
 
