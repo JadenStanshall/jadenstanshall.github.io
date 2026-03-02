@@ -25,8 +25,6 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I'm a Robotics Engineering student in the University of Toronto's Engineering Science program currently on Co-op at SEW-Eurodrive. I work on autonomous mobile robots and automated guided vehicles contributing to R&D efforts which bring cutting-edge research into production solutions.
+I study [Engineering Science](https://engsci.utoronto.ca/) at the University of Toronto majoring in [Robotics Engineering](https://engsci.utoronto.ca/program/majors/robotics-engineering/). Currently, I'm on Co-op at SEW-Eurodrive where my work focuses on [autonomous mobile robots](https://www.sew-eurodrive.at/automation/plant-automation/mobile-systems/mobile-transport-systems/mobile-transport-systems.html) for logistics and manufacturing. I contribute to R&D activities bridging the gap between research and deplyoyed solutions.
 
-My experience spans the full autonomy stack across both ground and aerial platforms. My background in electronics and embedded systems also informs my design persepctive, especially when it comes time for hardware integration and deployment.
-
-I'm passionate about turning breakthrough research into practical robotic systems which can operate reliably outside the lab. I want to contribute to a future where autonomy is embedded into real-world systems and can meaningfully improve everyday life.
+I'm lucky to have been involved in a number of really interesting projects through which I've built a strong skill-set spanning the full autonomy stack across ground and aerial robots. I also have a deep background in electronics and embedded systems which comes in handy when it's time for hardware integration.

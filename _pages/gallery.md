@@ -130,7 +130,7 @@ nav_order: 4
 </div>
 
 <div class="caption">
-    Implementing target localization and precision landing for a fixed-wing drone competing in the SAE Aero Design Competition. For the 2025 competition, focused on AprilTag-based landing zone and target localization. For the 2026 competition, upgrading to colour-based target localization to reduce payload and payload mechanism design constraints.
+    Implementing target localization and precision landing for a fixed-wing drone competing in the SAE Aero Design Competition. For the 2025 competition, focused on AprilTag-based landing zone and target localization. For the 2026 competition, upgrading to colour-based target localization to reduce payload mechanism design constraints.
 </div>
 
 
