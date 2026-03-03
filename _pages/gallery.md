@@ -31,7 +31,7 @@ nav_order: 4
 </div>
 
 <div class="caption">
-    Engineering Design Lab is an engineering consulting company focusing on electric vehicles and sustainable mobility. My work centered mainly around the EDL Vehicle Control Unit, a modular hardware platform for building software-defined vehicles. See the product page here: <a href="https://www.engdesignlab.com/products/vehicle-control-unit" target="_blank">EDL VCU</a> (see me in the video!). I was responsible for the product's initial firmware architecture, as well as validation for the electrical hardware. Some other projects I contributed to were the low voltage system and wiring harness design for an electric delivery vehicle, and a torque transducer for validating extension wrench designs.
+    Engineering Design Lab is an engineering consulting company focusing on electric vehicles and sustainable mobility. My work centered mainly around the <a href="https://www.engdesignlab.com/products/vehicle-control-unit" target="_blank">EDL Vehicle Control Unit</a>, a modular hardware platform for building software-defined vehicles. See the product page here: <a href="https://www.engdesignlab.com/products/vehicle-control-unit" target="_blank">EDL VCU</a> (also see me in the video!). I was responsible for the product's initial firmware architecture, as well as validation for the electrical hardware. Some other projects I contributed to were the low voltage system and wiring harness design for an electric delivery vehicle, and a torque transducer for validating extension wrench designs.
 </div>
 
 
@@ -57,11 +57,11 @@ nav_order: 4
     </div>
 </div>
 <div class="caption">
-    SEW Eurodrive is a multi-national industrial automation company based in Germany. I'm currently on Co-op working on the Vehicle Control team, contributing to R&D activities relating to autonomous mobile robots (AMRs) and automated guided vehicles (AGVs). Pictured here is an autonomous forklift to which I've contributed autonomous navigation, localization, and autonomous pick-up/drop-off capabilities including pallet detection. See also some shots of mobile robot performing planning tasks in simulation, as well as robot with a simulated TOF camera observing a wall; a setup later used for developing and testing human/obstacle tracking and dynamic obstacle avoidance algorithms.
+    SEW Eurodrive is a multi-national industrial automation company based in Germany. I'm currently on Co-op working on the Vehicle Control team, contributing to R&D activities relating to <a href="https://www.sew-eurodrive.at/automation/plant-automation/mobile-systems/mobile-transport-systems/mobile-transport-systems.html" target="_blank">autonomous mobile robots (AMRs) and automated guided vehicles (AGVs)</a>. Pictured here is an autonomous forklift to which I've contributed autonomous navigation, localization, and autonomous pick-up/drop-off capabilities including pallet detection. See also some shots of the mobile robot performing planning tasks in simulation, as well as a robot with a simulated TOF camera observing a wall; a setup later used for developing and testing human/obstacle tracking and dynamic obstacle avoidance algorithms.
 </div>
 
 <div class="caption">
-    Also pictured is a frame of inference for a UNet-based semantic segmentation model used to estimate driveable free space from 2D RGB camera input. Trained on ~20k images and ~20 hours of video footage taken from open datasets and SEW Eurodrive production/assembly plants accross the world; deployed on NVIDIA Jetson Nano and optimized for real-time inference using TensorRT. Fused free-space detections from 2D camera with geometry-based floor plane estimate from 3D TOF camera to reduce false positives in unoccupied regions and improve spatial consistency of the perception stack as a whole.
+    Also pictured is a frame of inference for a CNN-based semantic segmentation model used to estimate driveable free space from 2D RGB camera input. Trained on ~20k images and ~20 hours of video footage taken from open datasets and SEW Eurodrive production/assembly plants accross the world; deployed on NVIDIA Jetson Nano and optimized for real-time inference using TensorRT. Fused free-space detections from 2D camera with geometry-based floor plane estimates from 3D TOF camera to reduce false positives in unoccupied regions and improve spatial consistency of the perception stack as a whole.
 </div>
 
 <div class="row">
@@ -80,7 +80,7 @@ nav_order: 4
 </div>
 
 <div class="caption">
-    Another project at SEW Eurodrive; used a 3D ultrasonic sensor for 2D occupancy grid mapping based on a gaussian beam inverse sensor model with log-odds updates (this project was the perfect excuse to read Thrun/Bugard/Fox's Probabilistic Robotics on company time lol). This was validated and deployed on the autonomous forklift platform. Also pictured is the sensor used, the Sonair ADAR (acoustic detection and ranging) which outputs a point cloud similar in format to a 3D LiDAR sensor. Above, see also a simulated mobile robot performing a local obstacle avoidance maneuver.
+    Another project at SEW Eurodrive; I used a 3D ultrasonic sensor for 2D occupancy grid mapping based on a gaussian beam inverse sensor model with log-odds updates (this project was the perfect excuse to read Thrun/Bugard/Fox's Probabilistic Robotics on company time lol). This was validated and deployed on the autonomous forklift platform. Also pictured is the sensor used, the Sonair ADAR (acoustic detection and ranging) which outputs a point cloud similar in format to a 3D LiDAR sensor although with very different charataristics and failure modes. Above, see also a simulated mobile robot performing a local obstacle avoidance maneuver.
 </div>
 
 
@@ -105,7 +105,7 @@ nav_order: 4
 </div>
 
 <div class="caption">
-    Developing the planning and controls pipeline for a Level 4 autonomous vehicle for the SAE AutoDrive Challenge. Focusing on features prioritizing safe and natural driving behaviour. Showcased here are some clips of planning in simulation and on-car.
+    Developing the planning and controls pipeline for a Level 4 autonomous vehicle for the SAE AutoDrive Challenge. Focusing this year on features which prioritize safe and natural driving behaviour. Showcased here are some clips of planning in simulation and on-car.
 </div>
 
 

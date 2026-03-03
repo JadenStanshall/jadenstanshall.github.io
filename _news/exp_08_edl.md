@@ -10,6 +10,6 @@ related_posts: false
   <div>
     <h5 style="margin: 0;"><a href="{{ '/gallery/#edl' | relative_url }}" style="color: #0066cc;">Intern Electrical Designer - R&D</a> @ <a href="https://www.engdesignlab.com/" target="_blank">Engineering Design Lab</a></h5>
     <p style="color: #888; margin: 5px 0;">May 2024 - Aug 2024 · 4 mos</p>
-    <p style="margin: 10px 0;">Built initial firmware architecture for an embedded Vehicle Control Unit, the company's flagship product, establishing system-level control logic, peripheral drivers, and hardware validation framework for the first-release. The EDL VCU was featured at CES 2024 in las Vegas. Also designed low-voltage electrical system for a bicycle class last mile delivery vehicle and engineered a data acquisition system for a mechanical strain-test stand used for validation of extension wrench prototypes.</p>
+    <p style="margin: 10px 0;">Built initial firmware architecture for an embedded Vehicle Control Unit, the company's flagship product, establishing system-level control logic, peripheral drivers, and hardware validation framework for the first-release. The <a href="https://www.engdesignlab.com/products/vehicle-control-unit" target="_blank">EDL VCU</a> was featured at <a href="https://www.engdesignlab.com/post/__ces" target="_blank">CES 2024</a> in Las Vegas. I also designed the low-voltage electrical system for a bicycle class last mile delivery vehicle and engineered a data acquisition system for a mechanical strain-test stand used for validation of extension wrench prototypes.</p>
   </div>
 </div>

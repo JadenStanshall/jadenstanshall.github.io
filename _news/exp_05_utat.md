@@ -10,6 +10,6 @@ related_posts: false
   <div>
     <h5 style="margin: 0;"><a href="{{ '/gallery/#utat' | relative_url }}" style="color: #0066cc;">Software Developer</a> @ <a href="https://www.utat.ca/" target="_blank">University of Toronto Aerospace Team</a></h5>
     <p style="color: #888; margin: 5px 0;">Jan 2025 - Dec 2025 · 1 yr</p>
-    <p style="margin: 10px 0;">Target localization and precision landing control for fixed-wing UAV competing in the SAE Aero Design Challenge.</p>
+    <p style="margin: 10px 0;">Target localization and precision landing control for a fixed-wing UAV competing in the SAE Aero Design Challenge.</p>
   </div>
 </div>

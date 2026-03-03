@@ -10,6 +10,6 @@ related_posts: false
   <div>
     <h5 style="margin: 0;"><a href="{{ '/gallery/#hpvdt' | relative_url }}" style="color: #0066cc;">Head of Electronics</a> @ <a href="https://hpvdt.ca/" target="_blank">UofT Human Powered Vehicles Design Team</a></h5>
     <p style="color: #888; margin: 5px 0;">Sep 2023 - Sep 2025 · 2 yrs 1 mo</p>
-    <p style="margin: 10px 0;">Built custom embedded sensing and control systems across multiple human-powered vehicle platforms; ultralight aircraft, high-speed bicycle, and hydrofoil watercraft.</p>
+    <p style="margin: 10px 0;">Built custom embedded sensing and control systems across multiple human-powered vehicle platforms; uncluding an ultralight aircraft, a high-speed bicycle, and hydrofoil watercraft.</p>
   </div>
 </div>
