@@ -57,7 +57,7 @@ nav_order: 4
     </div>
 </div>
 <div class="caption">
-    SEW Eurodrive is a multi-national industrial automation company based in Germany. I'm currently on Co-op working on the Vehicle Control team, contributing to R&D activities relating to <a href="https://www.sew-eurodrive.at/automation/plant-automation/mobile-systems/mobile-transport-systems/mobile-transport-systems.html" target="_blank">autonomous mobile robots (AMRs) and automated guided vehicles (AGVs)</a>. Pictured here is an autonomous forklift to which I've contributed autonomous navigation, localization, and autonomous pick-up/drop-off capabilities including pallet detection. See also some shots of the mobile robot performing planning tasks in simulation, as well as a robot with a simulated TOF camera observing a wall; a setup later used for developing and testing human/obstacle tracking and dynamic obstacle avoidance algorithms.
+    SEW Eurodrive is a multi-national industrial automation company based in Germany. I'm currently on Co-op working on the Vehicle Control team, contributing to R&D activities relating to <a href="https://www.sew-eurodrive.at/automation/plant-automation/mobile-systems/mobile-transport-systems/mobile-transport-systems.html" target="_blank">autonomous mobile robots (AMRs) and automated guided vehicles (AGVs)</a>. Pictured here is an autonomous forklift to which I've contributed the 2D SLAM pipeline, local obstacle avoidance, and autonomous pick-up/drop-off capabilities including pallet detection. See also some shots of the mobile robot performing planning tasks in simulation, as well as a robot with a simulated TOF camera observing a wall; a setup later used for developing and testing human/obstacle tracking and dynamic obstacle avoidance algorithms.
 </div>
 
 <div class="caption">
@@ -72,15 +72,12 @@ nav_order: 4
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/sonair.png" title="sonair" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/gif/sonair_demo_1.gif" title="gridmap_a_la_sonair" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/gif/sonair_demo_1.gif" title="occupancy_grid_map" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 
 <div class="caption">
-    Another project at SEW Eurodrive; I used a 3D ultrasonic sensor for 2D occupancy grid mapping based on a gaussian beam inverse sensor model with log-odds updates (this project was the perfect excuse to read Thrun/Bugard/Fox's Probabilistic Robotics on company time lol). This was validated and deployed on the autonomous forklift platform. Also pictured is the sensor used, the Sonair ADAR (acoustic detection and ranging) which outputs a point cloud similar in format to a 3D LiDAR sensor although with very different charataristics and failure modes. Above, see also a simulated mobile robot performing a local obstacle avoidance maneuver.
+    Another project at SEW Eurodrive; I used a 3D ultrasonic sensor for 2D occupancy grid mapping based on a gaussian beam inverse sensor model with log-odds updates (this project was the perfect excuse to read Thrun/Bugard/Fox's Probabilistic Robotics on company time lol). This was validated and deployed on the autonomous forklift platform. Pictured is the occupancy grid map produced during a live deployment. Above, see also a simulated mobile robot performing a local obstacle avoidance maneuver.
 </div>
 
 
@@ -88,15 +85,6 @@ nav_order: 4
 <a id="autoronto" href=".#autoronto">
   <h2 class="category">aUToronto</h2>
 </a>
-
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/gif/rerouting_crazy.gif" title="rerouting" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/gif/barrel_weave.gif" title="weave" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
